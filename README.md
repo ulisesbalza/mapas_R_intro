@@ -8,7 +8,7 @@ Es muy importante que sepan que:
 * No necesariamente sé qué hago en cada paso, así funciona esto! Sabemos hasta donde podemos/queremos, sigue siendo mejor que algo empaquetado de lo que no sabemos nada. En R usamos lo que hicieron los demás, copiamos y pegamos, erramos, y al final aprendemos lo que se puede; lo importante es que todo está acá y se puede mejorar.
 * Trate de no repetir cosas en los tres scripts (por ejemplo, la mayor parte de lo lindo de los mapas y como ponerle cositas está concentrando en el primer script, pero en el resto hay cosas que creo son interesantes por otras razones). Les dejo a ustedes como transformar lo más analítico en más visual (pero lo analítico es clave, porque requiere -más aún que lo visual- de algo que sea repetible)
 * No hice todo de cero! Es lo lindo de lo replicable. Cada "nuevo" script está basado en mucho de lo anterior.
-* Esto lo mas lindo que hay? No, pero sabés qué? Si lo mejorás y lo compartís ganamos todes. Y no podés compartir como hacer un mapa con tu set de 45 Rotring, eso sí no es para cualquiera :)
+* Esto lo mas lindo que hay? No, pero sabés qué? Si lo mejorás y lo compartís ganamos todes.
 
 ### Software y datos libres
 Todo lo que aparece en los scripts es de libre descarga y uso
